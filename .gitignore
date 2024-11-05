@@ -1,0 +1,4 @@
+#Build file
+run.sh
+*.pyc
+
