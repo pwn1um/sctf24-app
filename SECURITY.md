@@ -1,2 +1,2 @@
 # Security Policy
-Please report security issues to security@example.com
+Please report security issues to security@sctf24-app.local
